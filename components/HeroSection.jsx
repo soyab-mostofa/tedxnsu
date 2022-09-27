@@ -4,7 +4,7 @@ import { AiTwotoneCalendar } from 'react-icons/ai';
 import { FaLocationArrow } from 'react-icons/fa';
 const HeroSection = () => {
   return (
-    <div className="relative z-10 py-32">
+    <div className="relative z-10 py-32 overflow-hidden">
       <div className="absolute -left-[200px] md:-left-[100px] top-10 h-80 w-80 -z-10">
         <Image src="/arrow.svg.svg" alt="pattern" layout="fill" />
       </div>
