@@ -4,15 +4,18 @@ import { AiTwotoneCalendar } from 'react-icons/ai';
 import { FaLocationArrow } from 'react-icons/fa';
 const HeroSection = () => {
   return (
-    <div className="relative z-10">
-      <div className="absolute h-80 w-80 -z-10">
+    <div className="relative z-10 py-32">
+      <div className="absolute -left-[200px] md:-left-[100px] top-10 h-80 w-80 -z-10">
+        <Image src="/arrow.svg.svg" alt="pattern" layout="fill" />
+      </div>
+      <div className="absolute -right-[200px] md:-right-[100px]  top-10 rotate-180 h-80 w-80 -z-10">
         <Image src="/arrow.svg.svg" alt="pattern" layout="fill" />
       </div>
 
-      <h1 className="text-3xl font-bold text-center my-14">
+      <h1 className="text-3xl font-bold text-center pt-10 ">
         Envisioning a better tomorrow
       </h1>
-      <div className="py-20 space-y-16 px-4">
+      <div className="pt-40 space-y-16 px-4 md:flex md:space-y-0 md:justify-around md:items-center">
         <div>
           <AiTwotoneCalendar size={32} />
           <span>
