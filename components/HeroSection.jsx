@@ -15,12 +15,12 @@ const HeroSection = () => {
       <h1 className="text-3xl font-bold text-center pt-10 ">
         Envisioning a better tomorrow
       </h1>
-      <div className="pt-40 space-y-16 px-4 md:flex md:space-y-0 md:justify-around md:items-center">
+      <div className="pt-80 text-sm space-y-16 px-4 md:flex md:space-y-0 md:justify-around md:items-center">
         <div>
           <AiTwotoneCalendar size={32} />
           <span>
             <p className="font-bold">27th september 2022</p>
-            <p>Time: 9:00 am - 6:30 pm GMT +6</p>
+            <p className="text-sm">Time: 9:00 am - 6:30 pm GMT +6</p>
           </span>
         </div>
         <div>
