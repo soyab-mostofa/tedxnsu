@@ -25,12 +25,12 @@ const WhatIs = () => {
               It is believed that a curious mind can cause boundaries to
               dissolve. And, everything depends on perspective, especially when
               it comes to looking at our beliefs. How? You must attend this
-              session if you want to hear knowledgeable people's responses to
-              such questions. Join us to connect with others on a platform that
-              allows you to feed your thoughts while broadening your
+              session if you want to hear knowledgeable people&apos;s responses
+              to such questions. Join us to connect with others on a platform
+              that allows you to feed your thoughts while broadening your
               perspective. We are excited to present our esteemed event TEDxNSU
-              in the spirit of "Ideas worth spreading." On our stage, this
-              October, speakers and performers from various scientific
+              in the spirit of &apos;Ideas worth spreading&apos;. On our stage,
+              this October, speakers and performers from various scientific
               disciplines, art, and culture will come together to provide you
               with an incredible time.
             </p>
